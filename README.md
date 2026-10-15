@@ -28,13 +28,13 @@ Apaixonado por tecnologia e programação, estou sempre buscando aprender novas 
 <h3>📫 Contato</h3>
   
 <div> 
-  <a href="https://www.linkedin.com/in/jotapevassao" target="_blank">
+  <a href="[https://www.linkedin.com/in/jotapevassao](https://www.linkedin.com/in/joão-pedro-da-silva-vassão-dos-santos-303b26422?utm_source=share_via&utm_content=profile&utm_medium=member_ios)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:joaopedrovassao@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://instagram.com/jotapevassao" target="_blank">
+  <a href="[https://instagram.com/jotapevassao](https://www.instagram.com/jotap.vassao?mdxt=MTg1NmMyOTkyZnBoag%3D%3D&utm_source=qr)" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
